@@ -2,7 +2,7 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: 
+title: GOC 
 ---
 
 ## O que eu faço 
