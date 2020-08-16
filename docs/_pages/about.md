@@ -14,6 +14,9 @@ Atualmente, é estudante de doutorado em Ciências pelo Instituto de Biofísica 
 
 
 ## Formação
+<div class="spinner-border text-dark mb-4" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
 
 2020
 Doutorado em andamento em Ciências Biológicas (Biofísica) (Conceito CAPES 7).
@@ -21,10 +24,6 @@ Universidade Federal do Rio de Janeiro, UFRJ, Brasil.
 Título: Avaliação dos Impactos Ecotoxicológicos de Rompimentos de Barragens de Rejeito: Estudo de Caso nos rios Doce e Paraopeba,
 Orientador: Olaf Malm.
 Coorientador: Daniele Kasper.
-
-<div class="spinner-border text-dark mb-4" role="status">
-  <span class="sr-only">Loading...</span>
-</div>
 
 2016 - 2018
 Mestrado em Ciências Biológicas (Biofísica) (Conceito CAPES 7).
@@ -47,11 +46,8 @@ com período sanduíche em The University of Queensland (Orientador: Prof. Carol
 1.
 Souza, J. S., Kasper, D., Teixeira da Cunha, L. S., Soares, T. A., Rodrigues de Lira Pessoa, A., Oliveira de Carvalho, G., Costa, E. S., Niedzielski, P., & Machado Torres, J. P. (2020).  [Biological factors affecting total mercury and methylmercury levels in Antarctic penguin](https://doi.org/10.1016/j.chemosphere.2020.12771). Chemosphere, 127713. 
 
-
 2.
-LINO, ADAN S. ; KASPER, DANIELE ; CARVALHO, GABRIEL O. ; GUIDA, YAGO ; MALM, OLAF .
-Selenium in sediment and food webs of the Tapajós River basin (Brazilian Amazon) and its relation to mercury. JOURNAL OF TRACE ELEMENTS IN MEDICINE AND BIOLOGY, v. 62, p. 126620, 2020.
-http://dx.doi.org/10.1016/j.jtemb.2020.126620
+Lino, A. S., Kasper, D., Carvalho, G. O., Guida, Y., & Malm, O. (2020).   [Selenium in sediment and food webs of the Tapajós River basin (Brazilian Amazon) and its relation to mercur](https://doi.org/10.1016/j.jtemb.2020.12662). Journal of Trace Elements in Medicine and Biology, 62, 126620. 
 
 3.
 LOPES, MARCELLY CASTELLO BRANCO ; CARVALHO, GABRIEL OLIVEIRA DE ; BERNARDO, ROBSON RONEY ; MACEDO, JOANA ; LINO, ADAN SANTOS ; RAMALHO, EMILIANO ESTERCI ; KASPER, DANIELE ; MEIRE, RODRIGO ORNELLAS ; TORRES, JOÃO PAULO MACHADO ; MALM, OLAF . 
