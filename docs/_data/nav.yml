@@ -1,13 +1,13 @@
-- title: Home
+- title: Início
   href: index.html
 
-- title: About
+- title: Sobre mim
   href: about.html
 
 - title: Posts
   href: list/posts.html
 
-- title: Documentation
+- title: Publicações
   href: list/projects.html
 
 

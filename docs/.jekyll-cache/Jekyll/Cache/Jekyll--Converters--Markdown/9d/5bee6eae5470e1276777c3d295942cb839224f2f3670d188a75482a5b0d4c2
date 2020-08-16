@@ -1,22 +1,35 @@
-I"�(<h2 id="what-is-it">What is it?</h2>
+I"+<h2 id="o-que-eu-faço">O que eu faço</h2>
 
-<p>Friday Theme is a theme for Jekyll using Bootstrap 4.4 designed to build a great personal web site with a portfolio, blog and project documentation. It is compatible with GitHub Pages. It supports all the Bootstrap components, it has blogs with tags, it has syntax highlighting and it has SVG icons. It is customisable with SCSS by simply changing the default boostrap variables.</p>
+<!---Friday Theme is a theme for Jekyll using Bootstrap 4.4 designed to build a great personal web site with a portfolio, blog and project documentation. It is compatible with GitHub Pages. It supports all the Bootstrap components, it has blogs with tags, it has syntax highlighting and it has SVG icons. It is customisable with SCSS by simply changing the default boostrap variables.
 
-<p>It is maintained by Simon Freytag on <a href="https://github.com/sfreytag/friday-theme">GitHub</a> and it was built originally for <a href="http://www.freytag.org.uk">Simon’s own portfolio</a>.</p>
+It is maintained by Simon Freytag on [GitHub](https://github.com/sfreytag/friday-theme) and it was built originally for [Simon's own portfolio](http://www.freytag.org.uk).
 
-<p><a href="/about.html">Here’s the full feature list and some quick examples of what it can do.</a></p>
+[Here's the full feature list and some quick examples of what it can do.](/about.html)
+--->
 
-<h2 id="how-to-use-it">How to use it</h2>
-
-<p>This web site is the documentation for the theme and also provides examples of how you can use and modify it. TIt is built using Friday Theme directly from the <a href="https://github.com/sfreytag/friday-theme">GitHub repo</a> and published to GitHub pages.</p>
-
-<p><a href="/list/projects.html">The documentation</a> covers the basics of installing and using it, and is an example of how you could write documentation about your own projects.</p>
-
-<p><a href="/list/posts.html">The blog</a> has a bunch of tips about how to use Friday Theme. These show how the blog works, including the tags. There’s the three most-recent posts below included below.</p>
+<p>Estudante de doutorado em Ciências pelo Instituto de Biofísica Carlos Chagas Filho, pelo Laboratório de Radioisótopos (UFRJ), com o projeto de tese intitulado: “Avaliação dos impactos ecotoxicológicos relacionados aos rompimentos das barragens de Fundão (Mariana-MG) e Barragem I da mina do córrego do Feijão (Brumadinho-MG)”.
+<a href="/about.html">+ info</a></p>
 
 <hr />
 
-<h3 id="recent-posts">Recent Posts</h3>
+<h2 id="what-i-do">What I do</h2>
+
+<p>PhD student at Federal University of Rio de Janeiro with the project: “Investigating the ecotoxicological impacts related to the dam ruptures in Mariana (MG) and Brumadinho (MG), Brazil”. 
+<a href="/about.html">+ info</a></p>
+
+<hr />
+
+<!---
+This web site is the documentation for the theme and also provides examples of how you can use and modify it. TIt is built using Friday Theme directly from the [GitHub repo](https://github.com/sfreytag/friday-theme) and published to GitHub pages.
+
+[The documentation](/list/projects.html) covers the basics of installing and using it, and is an example of how you could write documentation about your own projects.
+
+[The blog](/list/posts.html) has a bunch of tips about how to use Friday Theme. These show how the blog works, including the tags. There's the three most-recent posts below included below.
+
+<hr />
+--->
+
+<h3 id="postagens-recentes">Postagens recentes</h3>
 
 <div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
     <div class="card-body px-0 pt-0">
