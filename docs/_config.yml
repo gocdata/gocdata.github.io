@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 # Config for your profile.
 title:            GOC  Data            # Site title
 name:             Gabriel Oliveira de Carvalho         # Your name
-avatar:           /profile.jpg   # Path to an avatar image
+avatar:           /profile2.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
