@@ -50,21 +50,15 @@ Souza, J. S., Kasper, D., Teixeira da Cunha, L. S., Soares, T. A., Rodrigues de 
 Lino, A. S., Kasper, D., Carvalho, G. O., Guida, Y., & Malm, O. (2020).   [Selenium in sediment and food webs of the Tapajós River basin (Brazilian Amazon) and its relation to mercur](https://doi.org/10.1016/j.jtemb.2020.12662). Journal of Trace Elements in Medicine and Biology, 62, 126620. 
 
 3.
-LOPES, MARCELLY CASTELLO BRANCO ; CARVALHO, GABRIEL OLIVEIRA DE ; BERNARDO, ROBSON RONEY ; MACEDO, JOANA ; LINO, ADAN SANTOS ; RAMALHO, EMILIANO ESTERCI ; KASPER, DANIELE ; MEIRE, RODRIGO ORNELLAS ; TORRES, JOÃO PAULO MACHADO ; MALM, OLAF . 
-Total mercury in wild felids occurring in protected areas in the central Brazilian Amazon. ACTA AMAZONICA, v. 50, p. 142-148, 2020.
-http://dx.doi.org/10.1590/1809-4392201903331
+Lopes, M. C. B., Carvalho, G. O. de, Bernardo, R. R., Macedo, J., Lino, A. S., Ramalho, E. E., Kasper, D., Meire, R. O., Torres, J. P. M., & Malm, O. (2020). [Total mercury in wild felids occurring in protected areas in the central Brazilian Amazon](https://doi.org/10.1590/1809-4392201903331). Acta Amazonica, 50(2), 142–148. 
 
 4.
-LINO, ADAN SANTOS ; KASPER, DANIELE ; SILVA, ANA LUIZ ALMEIDA DA ; TEIXEIRA, BEATRIZ DA SILVA ; THOMAZ, JOSÉ RICARDO ; CARVALHO, GABRIEL OLIVEIRA DE ; MALM, OLAF .
-Zinc, Copper and Iron in Consumed Fish from Tapajós River Basin, PA, Brazil. ORBITAL: THE ELECTRONIC JOURNAL OF CHEMISTRY, v. 10, p. 272-278, 2018.
-http://dx.doi.org/10.17807/orbital.v10i4.1066
+Lino, A. S., Kasper, D., Silva, A. L. A. da, Teixeira, B. da S., Thomaz, J. R., Carvalho, G. O. de, & Malm, O. (2018). [Zinc, Copper and Iron in Consumed Fish from Tapajós River Basin, PA, Brazil](http://dx.doi.org/10.17807/orbital.v10i4.1066). Orbital: The Electronic Journal of Chemistry, 10(4), 272–278.
+
 
 5.
-MELLO, FLÁVIA VASCONCELOS DE ; DE CARVALHO, GABRIEL OLIVEIRA ; DE HOLANDA, TATIANE BÁRBARA ; LINO, ADAN SANTOS ; THOMAZ JÚNIOR, JOSÉ RICARDO ; AZEVEDO, JOSÉ PAULO SOAREZ ; TORRES, JOÃO PAULO MACHADO .
-Current State of Contamination by Persistent Organic Pollutants and Trace Elements on Piabanha River Basin - Rio de Janeiro, Brazil. ORBITAL: THE ELECTRONIC JOURNAL OF CHEMISTRY, v. 10, p. 327-336, 2018.
-http://dx.doi.org/10.17807/orbital.v10i4.1084
+Mello, F. V. de, de Carvalho, G. O., de Holanda, T. B., Lino, A. S., Thomaz Júnior, J. R., Azevedo, J. P. S., & Torres, J. P. M. (2018). [Current State of Contamination by Persistent Organic Pollutants and Trace Elements on Piabanha River Basin-Rio de Janeiro, Brazil](http://dx.doi.org/10.17807/orbital.v10i4.1084). Orbital: The Electronic Journal of Chemistry, 10(4), 327–336.
 
 6.
-CARVALHO, GABRIEL OLIVEIRA DE; PINHEIRO, ANDRÉ DE ALMEIDA ; SOUSA, DHOONE MENEZES DE ; PADILHA, JANEIDE DE ASSIS ; SOUZA, JULIANA SILVA ; GALVÃO, PETRUS MAGNUS ; PAIVA, THAÍS DE CASTRO ; FREIRE, ALINE SOARES ; SANTELLI, RICARDO ERTHAL ; MALM, OLAF ; TORRES, JOÃO PAULO MACHADO.
-Metals and Arsenic in Water Supply for Riverine Communities Affected by the Largest Environmental Disaster in Brazil: The Dam Collapse on Doce River. ORBITAL: THE ELECTRONIC JOURNAL OF CHEMISTRY, v. 10, p. 299-307, 2018. 
-http://dx.doi.org/10.17807/orbital.v10i4.1081
+Carvalho, G. O. de, Pinheiro, A. de A., Sousa, D. M. de, Padilha, J. de A., Souza, J. S., Galvão, P. M., Paiva, T. de C., Freire, A. S., Santelli, R. E., Malm, O., & Torres, J. P. M. (2018). [Metals and Arsenic in Water Supply for Riverine Communities Affected by the Largest Environmental Disaster in Brazil: The Dam Collapse on Doce River](https://doi.org/10.17807/orbital.v10i4.1081). Orbital: The Electronic Journal of Chemistry, 10(4), 299-307–307. 
+
