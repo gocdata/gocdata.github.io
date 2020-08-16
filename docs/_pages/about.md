@@ -45,9 +45,8 @@ com período sanduíche em The University of Queensland (Orientador: Prof. Carol
 ## Publicações
 
 1.
-SOUZA, JULIANA SILVA ; KASPER, DANIELE ; DA CUNHA, LARISSA SCHMAUDER TEIXEIRA ; SOARES, TUANY ALVES ; DE LIRA PESSOA, ADRIANA RODRIGUES ; DE CARVALHO, GABRIEL OLIVEIRA ; COSTA, ERLI SCHNEIDER ; NIEDZIELSKI, PRZEMYS'AW ; TORRES, JOÃO PAULO MACHADO .
-Biological factors affecting total mercury and methylmercury levels in Antarctic penguins. CHEMOSPHERE, v. 261, p. 127713, 2020.
-http://dx.doi.org/10.1016/j.chemosphere.2020.127713
+Souza, J. S., Kasper, D., Teixeira da Cunha, L. S., Soares, T. A., Rodrigues de Lira Pessoa, A., Oliveira de Carvalho, G., Costa, E. S., Niedzielski, P., & Machado Torres, J. P. (2020).  [Biological factors affecting total mercury and methylmercury levels in Antarctic penguin](https://doi.org/10.1016/j.chemosphere.2020.12771). Chemosphere, 127713. 
+
 
 2.
 LINO, ADAN S. ; KASPER, DANIELE ; CARVALHO, GABRIEL O. ; GUIDA, YAGO ; MALM, OLAF .
