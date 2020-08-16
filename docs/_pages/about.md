@@ -44,10 +44,10 @@ com período sanduíche em The University of Queensland (Orientador: Prof. Carol
 ## Publicações
 
 1.
-Souza, J. S., Kasper, D., Teixeira da Cunha, L. S., Soares, T. A., Rodrigues de Lira Pessoa, A., Oliveira de Carvalho, G., Costa, E. S., Niedzielski, P., & Machado Torres, J. P. (2020).  [Biological factors affecting total mercury and methylmercury levels in Antarctic penguin](https://doi.org/10.1016/j.chemosphere.2020.12771). Chemosphere, 127713. 
+Souza, J. S., Kasper, D., Teixeira da Cunha, L. S., Soares, T. A., Rodrigues de Lira Pessoa, A., Oliveira de Carvalho, G., Costa, E. S., Niedzielski, P., & Machado Torres, J. P. (2020).  [Biological factors affecting total mercury and methylmercury levels in Antarctic penguin](https://doi.org/10.1016/j.chemosphere.2020.127713). Chemosphere. 
 
 2.
-Lino, A. S., Kasper, D., Carvalho, G. O., Guida, Y., & Malm, O. (2020).   [Selenium in sediment and food webs of the Tapajós River basin (Brazilian Amazon) and its relation to mercur](https://doi.org/10.1016/j.jtemb.2020.12662). Journal of Trace Elements in Medicine and Biology, 62, 126620. 
+Lino, A. S., Kasper, D., Carvalho, G. O., Guida, Y., & Malm, O. (2020).   [Selenium in sediment and food webs of the Tapajós River basin (Brazilian Amazon) and its relation to mercur](https://doi.org/10.1016/j.jtemb.2020.126620). Journal of Trace Elements in Medicine and Biology, 62.
 
 3.
 Lopes, M. C. B., Carvalho, G. O. de, Bernardo, R. R., Macedo, J., Lino, A. S., Ramalho, E. E., Kasper, D., Meire, R. O., Torres, J. P. M., & Malm, O. (2020). [Total mercury in wild felids occurring in protected areas in the central Brazilian Amazon](https://doi.org/10.1590/1809-4392201903331). Acta Amazonica, 50(2), 142–148. 
