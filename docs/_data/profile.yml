@@ -8,4 +8,10 @@
 
 - caption: ORCiD 
   href: https://orcid.org/0000-0001-9809-2772
-  icon: entypo/ORCIDiD_iconvector.svg
+  icon: entypo/orcid.svg
+
+- caption: Lattes
+  href: http://lattes.cnpq.br/6904466793290308
+  icon: entypo/lattes.svg
+
+
