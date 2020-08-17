@@ -10,7 +10,7 @@ title: Início
 <!---{% include components/intro.md %}
 [Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
 --->
-Sou um biólogo, com foco em ecotoxicologia, se aventurando no mundo da ciência de dados e programação em R. Criei este site principalmente para divulgar meus trabalhos e publicações, além de compartilhar dicas e novos aprendizados. Atualmente Sou estudante faço doutorado em Ciências pelo Instituto de Biofísica Carlos Chagas Filho, pelo Laboratório de Radioisótopos (UFRJ), com o projeto de tese intitulado: "Avaliação dos impactos ecotoxicológicos relacionados aos rompimentos das barragens de Fundão (Mariana-MG) e Barragem I da mina do córrego do Feijão (Brumadinho-MG)".
+Sou um biólogo, com foco em ecotoxicologia, me aventurando no mundo da ciência de dados e programação em R. Criei este site principalmente para divulgar meus trabalhos e publicações, além de compartilhar dicas e novos aprendizados. Atualmente Sou estudante faço doutorado em Ciências pelo Instituto de Biofísica Carlos Chagas Filho, pelo Laboratório de Radioisótopos (UFRJ), com o projeto de tese intitulado: "Avaliação dos impactos ecotoxicológicos relacionados aos rompimentos das barragens de Fundão (Mariana-MG) e Barragem I da mina do córrego do Feijão (Brumadinho-MG)".
 [+ info]({{ site.baseurl}}{% link _pages/about.md %})
 
 <hr />
