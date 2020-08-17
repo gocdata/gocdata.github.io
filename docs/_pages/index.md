@@ -17,7 +17,7 @@ Sou um biólogo (foco em ecotoxicologia) me aventurando no mundo da ciência de 
 I'm a biologist (ecotoxicology field) exploring the world of data science and R programming. Currently, I'm a PhD student at Federal University of Rio de Janeiro with the project: "Investigating the ecotoxicological impacts related to the dam ruptures in Mariana (MG) and Brumadinho (MG), Brazil". 
 
 <hr />
-[+ info]({{ site.baseurl}}{% link _pages/about.md %})
+[+ Info]({{ site.baseurl}}{% link _pages/about.md %})
 <hr />
 
 <!---
