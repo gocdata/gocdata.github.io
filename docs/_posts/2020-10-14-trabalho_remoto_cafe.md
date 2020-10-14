@@ -28,7 +28,9 @@ Sugiro que todas as buscas sejam feitas em janelas anônimas!
 
 ![](gocdata.github.io/docs/_posts/cafe1.jpg)
 
-![useful image]({{ site.url }}/assets/cafe.jpg)
+![My helpful screenshot](/assets/cafe1.jpg)
+
+![useful image]({{ site.url }}/assets/cafe1.jpg)
 
 
 4º Em seguida clique no link indicado abaixo para configurar o cadastro;
