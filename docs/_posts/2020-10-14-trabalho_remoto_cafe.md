@@ -1,5 +1,5 @@
 ---
-title: "Pesquisa remota - Acesso ao Portal de Periódicos e outras bases de dados"
+title: "Pesquisa remota - Acesso ao Periódicos CAPES e outras bases de dados"
 tags:
   - Capes
   - Cafe
@@ -25,7 +25,7 @@ Sugiro que todas as buscas sejam feitas em janelas anônimas!
 2º Fazer login com as suas credenciais  wUFRJ;
 3º Clicar no ícone CAFe;
 
-![](_images/cafe1.png)
+![](docs/_images/cafe1.png)
 
 4º Em seguida clique no link indicado abaixo para configurar o cadastro;
 
