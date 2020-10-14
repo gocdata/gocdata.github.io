@@ -14,7 +14,8 @@ Devido a pandemia muitas pessoas foram obrigadas a trabalhar e estudar virtualme
 Fiz esse mini tutorial para auxiliar colaboradores em um trabalho de revisão sistemática em que precisávamos de acesso ao Web of Science e Scopus de casa. Ele é voltado para alunos e servidores da UFRJ, porém o serviço CAFe está disponível para diversas instituições e uma vez com o login da instituição, o método é o mesmo (a partir do passo 6). Sugiro entrar no site da Capes (passos 6 a 8) e verificar se a sua instituição faz parte do CAfe, e caso faça, busque maiores informações de login no site da instituição.
 
 Existem dois métodos de acesso: (1) através da Comunidade Acadêmica Federada (CAFe - que é um Serviço de gestão de identidade que proporciona uma plataforma de acesso integrada para várias instituições) e outro pelo (2) proxy interno da UFRJ. O método CAFe é o mais estável e deve ser o preferencial. 
-Sugiro que todas as buscas sejam feitas em janelas anônimas! 
+
+**Sugiro que o acesso ao proxy seja feito em janelas anônimas (o acesso ao proxy pode ser um pouco bugado e acessando via janela anônima costuma resolver problemas que já ocorreram comigo)**
 
 ## 1 - Manual acesso via CAFe:
 
@@ -60,22 +61,25 @@ Links das bases que mais uso (só irá funcionar se já estiver logado no CAFe):
 
 [Scopus](https://www-scopus-com.ez29.periodicos.capes.gov.br)
 
-Obs.: erros podem ocorrer se você tiver feito login no CAFe e depois tentar fazer o login novamente na mesma sessão, para evitar esse tipo de problema costumo sempre acessar através de janelas anônimas).
 
-+ infos sobre o CAFe:
+Mais infos sobre o CAFe:
+
 [CAFe](https://www.rnp.br/servicos/alunos-e-professores/identidade-e-seguranca/cafe)
+
 [Orientações acesso](http://www.periodicos.capes.gov.br/images/documents/Orientacoes_para_o_acesso_remoto_via_CAFe.pdf)
 
 ## 2 - Manual acesso via proxy UFRJ 
 (muito bugado e lento, mas útil se estiver sem acesso ao CAFe):
 
 1º Acessar a [Intranet UFRJ](https://intranet.ufrj.br/);
+
 2º Fazer o login com as suas credenciais UFRJ;
+
 3º Clicar no ícone proxy;
 
 ![](/assets/proxy1.jpg)
 
-3º Acessar as bases de dados para pesquisa;
+4º Acessar as bases de dados para pesquisa;
 
 [Periódico Capes](http://www-periodicos-capes-gov-br.ez29.capes.proxy.ufrj.br/index.php?)
 
