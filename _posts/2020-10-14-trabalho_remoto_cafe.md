@@ -7,11 +7,11 @@ tags:
   - Dicas
   - UFRJ
 ---
-Com o período de pandemia muitos foram obrigados a trabalhar e estudar 100% de casa, com isso o uso de diversas ferramentas virtuais aumentou abruptamente. Durante esse processo percebi que muitos colegas não sabiam utilizar algumas ferramentas virtuais muito úteis e disponibilizadas gratuitamente. Uma delas é o acesso via proxy ao portal Periódicos Capes e outras bases de dados pagas.
+Devido a pandemia muitas pessoas foram obrigadas a trabalhar e estudar virtualmente, com isso o uso de diversas ferramentas digitais aumentou abruptamente. Durante esse processo percebi que muitos colegas não sabiam utilizar algumas ferramentas virtuais úteis e disponibilizadas gratuitamente. Uma delas é o acesso via proxy ao portal Periódicos Capes e outras bases de dados pagas.
 
 <!--more-->
 
-Fiz esse mini tutorial para auxiliar colaboradores em um trabalho de revisão sistemática em que precisávamos de acesso ao Web of Science e Scopus de casa. Ele é voltado para alunos e servidores da UFRJ, porém o serviço CAFe está disponível para diversas instituições e uma vez tendo o login da instituição o método é o mesmo (a partir do passo 6). Sugiro entrar no site da Capes (passos 6 a 8) e verificar se a sua instituição faz parte do CAfe, e caso faça, busque maiores informações de login no site da instituição.
+Fiz esse mini tutorial para auxiliar colaboradores em um trabalho de revisão sistemática em que precisávamos de acesso ao Web of Science e Scopus de casa. Ele é voltado para alunos e servidores da UFRJ, porém o serviço CAFe está disponível para diversas instituições e uma vez com o login da instituição, o método é o mesmo (a partir do passo 6). Sugiro entrar no site da Capes (passos 6 a 8) e verificar se a sua instituição faz parte do CAfe, e caso faça, busque maiores informações de login no site da instituição.
 
 Existem dois métodos de acesso: (1) através da Comunidade Acadêmica Federada (CAFe - que é um Serviço de gestão de identidade que proporciona uma plataforma de acesso integrada para várias instituições) e outro pelo (2) proxy interno da UFRJ. O método CAFe é o mais estável e deve ser o preferencial. 
 Sugiro que todas as buscas sejam feitas em janelas anônimas! 
