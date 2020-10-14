@@ -62,8 +62,8 @@ Links das bases que mais uso (só irá funcionar se já estiver logado no CAFe):
 Obs.: erros podem ocorrer se você tiver feito login no CAFe e depois tentar fazer o login novamente na mesma sessão, para evitar esse tipo de problema costumo sempre acessar através de janelas anônimas).
 
 Links CAFe:
-https://www.rnp.br/servicos/alunos-e-professores/identidade-e-seguranca/cafe
-http://www.periodicos.capes.gov.br/images/documents/Orientacoes_para_o_acesso_remoto_via_CAFe.pdf
+[](https://www.rnp.br/servicos/alunos-e-professores/identidade-e-seguranca/cafe)
+[](http://www.periodicos.capes.gov.br/images/documents/Orientacoes_para_o_acesso_remoto_via_CAFe.pdf)
 
 ## 2 - Manual acesso via proxy UFRJ 
 (muito bugado e lento, mas útil se estiver sem acesso ao CAFe):
@@ -85,4 +85,4 @@ http://www.periodicos.capes.gov.br/images/documents/Orientacoes_para_o_acesso_re
 (comum dar erro! Apenas cole novamente o link e aperte enter - não sei pq mas geralmente só funciona na segunda tentativa)
 
 ## Extra 
-E, se nenhuma das alternativas der certo, podemos recorrer ao site Sci-hub. Para quem não conhece, o Sci-hub é um projeto que burla o sistema de paywall das revistas, oferecendo acesso a milhões de artigos científicos e livros gratuitamente. Considerado pirataria, o serviço é constantemente processado e atacado, e por isso muda de domínio com frequência. No entanto, é possível obter uma lista de links ao Sci-hub atualizadas automaticamente no site [Sci-hub Now](https://sci-hub.now.sh/)
+E, se nenhuma das alternativas der certo, podemos recorrer ao site Sci-hub. Para quem não conhece, o Sci-hub é um projeto que burla o sistema de paywall das revistas, oferecendo acesso a milhões de artigos científicos e livros gratuitamente. Considerado pirataria, o serviço é constantemente processado e atacado, e por isso muda de domínio com frequência. No entanto, é possível obter uma lista de links ao Sci-hub atualizadas automaticamente no site [sci-hub now](https://sci-hub.now.sh/)
