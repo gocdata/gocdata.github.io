@@ -90,4 +90,4 @@ Mais infos sobre o CAFe:
 (comum dar erro! Apenas cole novamente o link e aperte enter - geralmente funciona na segunda tentativa)
 
 ## Extra 
-E, se nenhuma das alternativas der certo, podemos recorrer ao site Sci-hub. Para quem não conhece, o Sci-hub é um projeto que burla o sistema de paywall das revistas, oferecendo acesso a milhões de artigos científicos e livros gratuitamente. Considerado pirataria, o serviço é constantemente processado e atacado, e por isso muda de domínio com frequência. No entanto, é possível obter uma lista de links ao Sci-hub atualizadas automaticamente no site [sci-hub now](https://sci-hub.now.sh/)
+E, se nenhuma das alternativas der certo, sempre podemos recorrer ao Sci-hub. Para quem não conhece, o Sci-hub é um projeto que burla o sistema de paywall das revistas, oferecendo acesso a milhões de artigos científicos e livros gratuitamente. Considerado pirataria, o serviço é constantemente processado e atacado, e por isso muda de domínio com frequência. No entanto, é possível obter uma lista de links ao Sci-hub atualizadas automaticamente no site [sci-hub now](https://sci-hub.now.sh/)
