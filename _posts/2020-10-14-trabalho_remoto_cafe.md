@@ -36,7 +36,10 @@ Sugiro que todas as buscas sejam feitas em janelas anônimas!
 
 **Acesso CAFe**
 
+Após criar o login de sua universidade, pode utilizá-lo sempre que quiser acessar o CAFe, seguindo os passos abaixo:
+
 6º Acessar [Periódicos CAPES](http://www.periodicos.capes.gov.br/);
+
 7º Clicar em acesso CAFe;
 
 ![](/assets/cafe3.jpg)
