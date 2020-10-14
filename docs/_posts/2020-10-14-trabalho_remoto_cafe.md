@@ -26,7 +26,7 @@ Sugiro que todas as buscas sejam feitas em janelas anônimas!
 
 3º Clicar no ícone CAFe;
 
-![](/docs/posts/_images/cafe1.jpg)
+![](gocdata.github.io/docs/_posts/cafe1.jpg)
 
 4º Em seguida clique no link indicado abaixo para configurar o cadastro;
 
