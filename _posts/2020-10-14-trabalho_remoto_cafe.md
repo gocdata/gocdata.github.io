@@ -43,7 +43,7 @@ Sugiro que todas as buscas sejam feitas em janelas anônimas!
 
 8º Na tela que irá aparecer selecione a sua universidade, no caso a UFRJ, e clique em enviar;
 
-9º Insira o login (email cadastrado) e a senha. Se for o primeiro acesso deverá concordar com os termos de uso;
+9º Insira o login (email cadastrado) e a senha (a mesma da intranet UFRJ). Se for o primeiro acesso deverá concordar com os termos de uso;
 
 Você será redirecionado para a página inicial do Periódicos Capes via acesso proxy. O link na barra de endereço deverá ser: http://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br/
 
