@@ -1,3 +1,6 @@
+# Adding comment functionality
+comments: true
+
 # Outputting
 permalink: /:categories/:year/:month/:day/:title.html
 
