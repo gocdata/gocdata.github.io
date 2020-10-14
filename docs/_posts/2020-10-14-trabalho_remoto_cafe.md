@@ -1,5 +1,5 @@
 ---
-title: [Pesquisa remota] Acesso ao Portal de Periódicos e outras bases de dados 
+title: "Pesquisa remota - Acesso ao Portal de Periódicos e outras bases de dados"
 tags:
   - Capes
   - Cafe
