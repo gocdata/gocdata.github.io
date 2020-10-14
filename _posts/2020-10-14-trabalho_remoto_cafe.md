@@ -15,7 +15,7 @@ Fiz esse mini tutorial para auxiliar colaboradores em um trabalho de revisão si
 
 Existem dois métodos de acesso: (1) através da Comunidade Acadêmica Federada (CAFe - que é um Serviço de gestão de identidade que proporciona uma plataforma de acesso integrada para várias instituições) e outro pelo (2) proxy interno da UFRJ. O método CAFe é o mais estável e deve ser o preferencial. 
 
-**Sugiro que o acesso ao proxy seja feito em janelas anônimas (o acesso ao proxy pode ser um pouco bugado e acessando via janela anônima costuma resolver problemas que já ocorreram comigo)**
+**Sugiro que o acesso ao proxy seja feito em janelas anônimas (tem alguns bugs que ocorrem que costumam ser resolvidos acessando via janela anônima)**
 
 ## 1 - Manual acesso via CAFe:
 
