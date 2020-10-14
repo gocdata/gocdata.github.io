@@ -1,8 +1,6 @@
 # Outputting
 permalink: /:categories/:year/:month/:day/:title.html
 
-BASE_PATH : /
-
 # Conversion
 markdown:         kramdown
 highlighter:      rouge
@@ -15,7 +13,7 @@ avatar:           /profile2.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
-baseurl: ""
+baseurl: "/docs"
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
 include: ["_pages", "_portfolio"]
