@@ -26,7 +26,7 @@ Sugiro que todas as buscas sejam feitas em janelas anônimas!
 
 3º Clicar no ícone CAFe;
 
-![](_images/cafe1.jpg)
+![](/docs/posts/_images/cafe1.jpg)
 
 4º Em seguida clique no link indicado abaixo para configurar o cadastro;
 
