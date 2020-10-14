@@ -22,10 +22,12 @@ Sugiro que todas as buscas sejam feitas em janelas anônimas!
 **Criando o login UFRJ**
 
 1º Acessar a [Intranet UFRJ](https://intranet.ufrj.br/);
-2º Fazer login com as suas credenciais  wUFRJ;
+
+2º Fazer login com as suas credenciais UFRJ;
+
 3º Clicar no ícone CAFe;
 
-![](docs/_images/cafe1.png)
+![](docs/_images/cafe1.jpg)
 
 4º Em seguida clique no link indicado abaixo para configurar o cadastro;
 
