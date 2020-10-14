@@ -30,7 +30,7 @@ Sugiro que todas as buscas sejam feitas em janelas anônimas!
 
 4º Em seguida clique no link indicado abaixo para configurar o cadastro;
 
-image
+![](/assets/cafe2.jpg)
 
 5º Nesta tela você deverá configurar o email de acesso ao CAFe e adicionar a senha da intranet para confirmar;
 
@@ -39,7 +39,7 @@ image
 6º Acessar [Periódicos CAPES](http://www.periodicos.capes.gov.br/);
 7º Clicar em acesso CAFe;
 
-image
+![](/assets/cafe3.jpg)
 
 8º Na tela que irá aparecer selecione a sua universidade, no caso a UFRJ, e clique em enviar;
 
@@ -49,7 +49,7 @@ Você será redirecionado para a página inicial do Periódicos Capes via acesso
 
 A partir desse link você tem acesso às principais base de dados (ex. scopus, web of science). A busca pode ser realizada diretamente no Periódicos Capes ou através do mecanismo de busca da base de interesse. Para descobrir o link de acesso da base de dados específica deve-se buscar pelo nome da base na caixa de busca:
 
-image
+![](/assets/cafe4.jpg)
 
 Links das bases que mais uso (só irá funcionar se já estiver logado no CAFe):
 [Web of science](http://apps-webofknowledge.ez29.periodicos.capes.gov.br)
@@ -69,7 +69,7 @@ http://www.periodicos.capes.gov.br/images/documents/Orientacoes_para_o_acesso_re
 2º Fazer o login com as suas credenciais UFRJ;
 3º Clicar no ícone proxy;
 
-IMAGE
+![](/assets/proxy1.jpg)
 
 3º Acessar as bases de dados para pesquisa;
 
