@@ -1,5 +1,5 @@
 ---
-title: [Pesquisa remota] Acesso ao conteúdo assinado do Portal de Periódicos e outras bases de dados 
+title: [Pesquisa remota] Acesso ao Portal de Periódicos e outras bases de dados 
 tags:
   - Capes
   - Cafe
@@ -17,7 +17,7 @@ Esse mini tutorial fiz para auxiliar colaboradores em um trabalho de revisão si
 Existem dois métodos de acesso: (1) através da Comunidade Acadêmica Federada (CAFe - que é um Serviço de gestão de identidade que proporciona uma plataforma de acesso integrada para várias instituições) e outro pelo (2) proxy interno da UFRJ. O método CAFe é o mais estável e deve ser o preferencial. 
 Sugiro que todas as buscas sejam feitas em janelas anônimas! 
 
-# 1 - Manual acesso via CAFe:
+## 1 - Manual acesso via CAFe:
 
 **Criando o login UFRJ**
 
@@ -61,7 +61,7 @@ Links CAFe:
 https://www.rnp.br/servicos/alunos-e-professores/identidade-e-seguranca/cafe
 http://www.periodicos.capes.gov.br/images/documents/Orientacoes_para_o_acesso_remoto_via_CAFe.pdf
 
-# 2- Manual acesso via proxy ufrj 
+## 2 - Manual acesso via proxy UFRJ 
 (muito bugado e lento, mas útil se estiver sem acesso ao CAFe):
 
 1º Acessar a [Intranet UFRJ](https://intranet.ufrj.br/);
@@ -80,5 +80,5 @@ IMAGE
 
 (comum dar erro! Apenas cole novamente o link e aperte enter - não sei pq mas geralmente só funciona na segunda tentativa)
 
-# Extra 
-E, se nenhuma das alternativas der certo, podemos recorrer ao site Sci-hub. Para quem não conhece, o Sci-hub é um projeto que burla o sistema de paywall das revistas, oferecendo acesso a milhões de artigos científicos e livros gratuitamente. Considerado pirataria, o serviço é constantemente processado e atacado, e por isso muda de domínio com frequência. No entanto, é possível obter uma lista de links ao Sci-hub atualizadas automaticamente no site [ Where is Sci-hub Now](https://sci-hub.now.sh/).
+## Extra 
+E, se nenhuma das alternativas der certo, podemos recorrer ao site Sci-hub. Para quem não conhece, o Sci-hub é um projeto que burla o sistema de paywall das revistas, oferecendo acesso a milhões de artigos científicos e livros gratuitamente. Considerado pirataria, o serviço é constantemente processado e atacado, e por isso muda de domínio com frequência. No entanto, é possível obter uma lista de links ao Sci-hub atualizadas automaticamente no site [Sci-hub Now](https://sci-hub.now.sh/)
