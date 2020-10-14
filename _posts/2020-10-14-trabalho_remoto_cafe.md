@@ -55,15 +55,16 @@ A partir desse link você tem acesso às principais base de dados (ex. scopus, w
 ![](/assets/cafe4.jpg)
 
 Links das bases que mais uso (só irá funcionar se já estiver logado no CAFe):
+
 [Web of science](http://apps-webofknowledge.ez29.periodicos.capes.gov.br)
 
 [Scopus](https://www-scopus-com.ez29.periodicos.capes.gov.br)
 
 Obs.: erros podem ocorrer se você tiver feito login no CAFe e depois tentar fazer o login novamente na mesma sessão, para evitar esse tipo de problema costumo sempre acessar através de janelas anônimas).
 
-Links CAFe:
-[](https://www.rnp.br/servicos/alunos-e-professores/identidade-e-seguranca/cafe)
-[](http://www.periodicos.capes.gov.br/images/documents/Orientacoes_para_o_acesso_remoto_via_CAFe.pdf)
++ infos sobre o CAFe:
+[CAFe](https://www.rnp.br/servicos/alunos-e-professores/identidade-e-seguranca/cafe)
+[Orientações acesso](http://www.periodicos.capes.gov.br/images/documents/Orientacoes_para_o_acesso_remoto_via_CAFe.pdf)
 
 ## 2 - Manual acesso via proxy UFRJ 
 (muito bugado e lento, mas útil se estiver sem acesso ao CAFe):
