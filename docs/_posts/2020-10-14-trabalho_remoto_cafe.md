@@ -25,7 +25,7 @@ Sugiro que todas as buscas sejam feitas em janelas anônimas!
 2º Fazer login com as suas credenciais  wUFRJ;
 3º Clicar no ícone CAFe;
 
-image
+![](_images/cafe1.png)
 
 4º Em seguida clique no link indicado abaixo para configurar o cadastro;
 
