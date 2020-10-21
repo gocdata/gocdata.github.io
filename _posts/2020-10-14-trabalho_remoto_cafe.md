@@ -51,6 +51,8 @@ Após criar o login de sua universidade, pode utilizá-lo sempre que quiser aces
 
 Você será redirecionado para a página inicial do Periódicos Capes via acesso proxy. O link na barra de endereço deverá ser: http://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br/
 
+*Esta etapa costuma apresentar bastante problemas. Caso não consiga acessar, feche todas as abas e janelas do navegador e tente acessar novamente por uma janela no modo anônimo. Caso ainda assim não consiga, pode tentar: esperar alguns minutos, mudar de navegador, ou repetir os passos 1 ao 5.
+
 A partir desse link você tem acesso às principais base de dados (ex. scopus, web of science). A busca pode ser realizada diretamente no Periódicos Capes ou através do mecanismo de busca da base de interesse. Para descobrir o link de acesso da base de dados específica deve-se buscar pelo nome da base na caixa de busca:
 
 ![](/assets/cafe4.jpg)
