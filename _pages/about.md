@@ -14,6 +14,8 @@ Atualmente, é estudante de doutorado em Ciências pelo Instituto de Biofísica 
 
 ## Publicações
 
+-  Carvalho, G. O., Meire, R. O., Lino, A. S., Yogui, D. R., Desbiez, A. L. J., Torres, J. P. M., & Malm, O. (2020). [Biomonitoring mercury contamination using fur from roadkilled giant anteaters](https://doi.org/10.1016/j.chemosphere.2020.128644). Chemosphere, 128644.
+
 - Souza, J. S., Kasper, D., Teixeira da Cunha, L. S., Soares, T. A., Rodrigues de Lira Pessoa, A., Oliveira de Carvalho, G., Costa, E. S., Niedzielski, P., & Machado Torres, J. P. (2020).  [Biological factors affecting total mercury and methylmercury levels in Antarctic penguin](https://doi.org/10.1016/j.chemosphere.2020.127713). Chemosphere. 
 
 - Lino, A. S., Kasper, D., Carvalho, G. O., Guida, Y., & Malm, O. (2020).   [Selenium in sediment and food webs of the Tapajós River basin (Brazilian Amazon) and its relation to mercur](https://doi.org/10.1016/j.jtemb.2020.126620). Journal of Trace Elements in Medicine and Biology, 62.
