@@ -14,6 +14,10 @@ Atualmente, é estudante de doutorado em Ciências pelo Instituto de Biofísica 
 
 ## Publicações
 
+- Guida, Y., Carvalho, G. O., Capella, R., Pozo, K., Lino, A. S., Azeredo, A., ... & Meire, R. O. (2020). [Atmospheric Occurrence of Organochlorine Pesticides and Inhalation Cancer Risk in Urban Areas at Southeast Brazil](https://doi.org/10.1016/j.envpol.2020.116359). Environmental Pollution, 116359.
+
+- Parente, C. E., Lino, A. S., Carvalho, G. O., Pizzochero, A. C., Azevedo-Silva, C. E., Freitas, M. O., ... & Malm, O. (2020). [First year after the Brumadinho tailings’ dam collapse: Spatial and seasonal variation of trace elements in sediments, fishes and macrophytes from the Paraopeba River, Brazil](https://doi.org/10.1016/j.envres.2020.110526). Environmental Research, 193, 110526.
+
 -  Carvalho, G. O., Meire, R. O., Lino, A. S., Yogui, D. R., Desbiez, A. L. J., Torres, J. P. M., & Malm, O. (2020). [Biomonitoring mercury contamination using fur from roadkilled giant anteaters](https://doi.org/10.1016/j.chemosphere.2020.128644). Chemosphere, 128644.
 
 - Souza, J. S., Kasper, D., Teixeira da Cunha, L. S., Soares, T. A., Rodrigues de Lira Pessoa, A., Oliveira de Carvalho, G., Costa, E. S., Niedzielski, P., & Machado Torres, J. P. (2020).  [Biological factors affecting total mercury and methylmercury levels in Antarctic penguin](https://doi.org/10.1016/j.chemosphere.2020.127713). Chemosphere. 
